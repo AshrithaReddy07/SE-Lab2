@@ -1,0 +1,6 @@
+Hello, this is a sample text file.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Sed gravida purus ac turpis sollicitudin bibendum.
+Fusce consequat velit at eros interdum, id condimentum nisl convallis.
+Donec eu quam quis justo vehicula aliquet.
